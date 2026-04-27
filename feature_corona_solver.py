@@ -1,3 +1,5 @@
 # I have some formular that can help you to reverse engineer the virus
 
 # code ...
+
+# Here are some changes I added locally
